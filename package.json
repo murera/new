@@ -48,7 +48,7 @@
     "nyc": "^14.1.1",
     "path": "^0.12.7",
     "pg": "^7.12.1",
-    "swagger-ui": "^3.23.9",
+    "swagger-ui": "^3.23.11",
     "yml": "^1.0.0"
   },
   "devDependencies": {
